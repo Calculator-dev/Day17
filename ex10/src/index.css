@@ -37,7 +37,7 @@ html, body {
 }
 
 #main-footer {
-    margin-top: 680px;
+    margin-top: 630px;
     color: white;
 }
 
@@ -74,7 +74,7 @@ html, body {
 #links a {
     color: #0084bd;
     text-decoration: none;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 .primary-btn {
